@@ -1,0 +1,2 @@
+gcc -o prog prog.c
+./prog file1.txt file2.txt
