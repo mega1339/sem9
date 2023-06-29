@@ -1,0 +1,2 @@
+gcc -o page page.c
+./page file3.txt 2 5
